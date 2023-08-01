@@ -1,0 +1,22 @@
+{
+  "name": "challenge-mdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:calculator": "node ./src/challenge/calculator/calculator.js",
+    "start:prime-number": "node ./src/challenge/prime-number/prime-number.js",
+    "start:factorial": "node ./src/challenge/factorial/factorial.js",
+    "start:palindrome": "node ./src/challenge/palindrome/palindrome.js",
+    "start:table": "node ./src/challenge/table/table.js",
+    "start:vowel-counter": "node ./src/challenge/vowel-counter/vowel-counter.js",
+    "start:grade-average": "node ./src/challenge/grade-average/grade-average.js",
+    "start:interest-calculation": "node ./src/challenge/interest-calculation/interest-calculation.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
